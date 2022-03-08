@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "chuckNorrisAPI",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
